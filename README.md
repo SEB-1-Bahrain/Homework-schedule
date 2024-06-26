@@ -1,7 +1,7 @@
 # Homework-schedule
 ![image](./homework-img.jpg)
 
-## Submition
+## Submission
 Please fill out the form below to submit your homework:
 
 [Homework Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSduTn9ghFyJcVZ3htkTRdSGW-ssn6ExIvhL1_oa9RD5IaqTNQ/viewform)
