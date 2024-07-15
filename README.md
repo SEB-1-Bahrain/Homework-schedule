@@ -15,5 +15,6 @@ Please fill out the form below to submit your homework:
 | [DOM Events](https://github.com/SEB-10-Bahrain/dom-events-LAB)                                    |  01/07/24  Monday    | 
 | [Tic-Tac-Toe](https://github.com/SEB-10-Bahrain/JS-Game-Tic-Tac-Toe-LAB)                          |  03/07/24, Wednesday |
 | [Flexbox](https://github.com/SEB-10-Bahrain/flexbox-LAB)                                          |  04/07/24  Thursday  |
-| [Intro to Markdown Lab](https://github.com/SEB-10-Bahrain/intro-markdown-lab)                   |  07/07/24  Sunday  |
-| [JS Array Iterators Lab](https://github.com/SEB-10-Bahrain/array-iterator-LAB)                    |  07/07/24  Sunday  |
+| [Intro to Markdown Lab](https://github.com/SEB-10-Bahrain/intro-markdown-lab)                     |  07/07/24  Sunday    |
+| [JS Array Iterators Lab](https://github.com/SEB-10-Bahrain/array-iterator-LAB)                    |  07/07/24  Sunday    |
+| [Intro to Express Lab](https://github.com/SEB-10-Bahrain/intro-to-express-lab)                    |  17/07/24, Wednesday |
