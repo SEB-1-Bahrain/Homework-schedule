@@ -18,3 +18,4 @@ Please fill out the form below to submit your homework:
 | [Intro to Markdown Lab](https://github.com/SEB-10-Bahrain/intro-markdown-lab)                     |  07/07/24  Sunday    |
 | [JS Array Iterators Lab](https://github.com/SEB-10-Bahrain/array-iterator-LAB)                    |  07/07/24  Sunday    |
 | [Intro to Express Lab](https://github.com/SEB-10-Bahrain/intro-to-express-lab)                    |  17/07/24, Wednesday |
+| [EJS Lab](https://github.com/SEB-10-Bahrain/EJS-LAB)                                              |  21/07/24  Sunday    |
