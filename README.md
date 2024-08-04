@@ -23,4 +23,5 @@ Please fill out the form below to submit your homework:
 | [MEN Stack App Lab](https://github.com/SEB-10-Bahrain/MEN-Stack-LAB)                                                                                  |  25/07/24  Thursday  |
 | [MEN Stack Embedding Related Data Lab - Cookbook](https://github.com/SEB-10-Bahrain/MEN-Stack-Embedding-Related-Data-Lab-Cookbook)                    |  29/07/24, Monday    |
 | [Project 2](https://github.com/SEB-10-Bahrain/MEN-Project-2)                                                                                          |  25/07/24  Thursday  |
+| [Modern JS Syntax Lab](https://github.com/SEB-10-Bahrain/Modern-JS-Syntax-Lab))                                                                       |  08/07/24  Wednesday  |
 
