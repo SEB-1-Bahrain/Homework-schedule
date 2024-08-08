@@ -23,5 +23,10 @@ Please fill out the form below to submit your homework:
 | [MEN Stack App Lab](https://github.com/SEB-10-Bahrain/MEN-Stack-LAB)                                                                                  |  25/07/24  Thursday  |
 | [MEN Stack Embedding Related Data Lab - Cookbook](https://github.com/SEB-10-Bahrain/MEN-Stack-Embedding-Related-Data-Lab-Cookbook)                    |  29/07/24, Monday    |
 | [Project 2](https://github.com/SEB-10-Bahrain/MEN-Project-2)                                                                                          |  25/07/24  Thursday  |
-| [Modern JS Syntax Lab](https://github.com/SEB-10-Bahrain/Modern-JS-Syntax-Lab)                                                                       |  08/07/24  Wednesday  |
+| [Modern JS Syntax Lab](https://github.com/SEB-10-Bahrain/Modern-JS-Syntax-Lab)                                                                        |  08/07/24  Wednesday |
+| [React-Components-Lab](https://github.com/SEB-10-Bahrain/React-Components-Lab)                                                                        |  08/08/24  Thursday  |
+| [React State Management Lab](https://github.com/SEB-10-Bahrain/React-State-Management-Lab)                                                            |  08/07/24  Wednesday |
+| [Lifting State in React Lab](https://github.com/SEB-10-Bahrain/Lifting-State-in-React-Lab)                                                            |  08/07/24  Wednesday |
+| [Fetching Data in React Lab](https://github.com/SEB-10-Bahrain/Fetching-Data-in-React-Lab)                                                            |  08/07/24  Wednesday |
+
 
