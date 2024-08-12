@@ -25,8 +25,8 @@ Please fill out the form below to submit your homework:
 | [Project 2](https://github.com/SEB-10-Bahrain/MEN-Project-2)                                                                                          |  25/07/24  Thursday  |
 | [Modern JS Syntax Lab](https://github.com/SEB-10-Bahrain/Modern-JS-Syntax-Lab)                                                                        |  08/07/24  Wednesday |
 | [React-Components-Lab](https://github.com/SEB-10-Bahrain/React-Components-Lab)                                                                        |  08/08/24  Thursday  |
-| [React State Management Lab](https://github.com/SEB-10-Bahrain/React-State-Management-Lab)                                                            |  08/07/24  Wednesday |
-| [Lifting State in React Lab](https://github.com/SEB-10-Bahrain/Lifting-State-in-React-Lab)                                                            |  08/07/24  Wednesday |
-| [Fetching Data in React Lab](https://github.com/SEB-10-Bahrain/Fetching-Data-in-React-Lab)                                                            |  08/07/24  Wednesday |
+| [React State Management Lab](https://github.com/SEB-10-Bahrain/React-State-Management-Lab)                                                            |  11/07/24  Sunday |
+| [Lifting State in React Lab](https://github.com/SEB-10-Bahrain/Lifting-State-in-React-Lab)                                                            |  11/07/24  Sunday |
+| [Fetching Data in React Lab](https://github.com/SEB-10-Bahrain/Fetching-Data-in-React-Lab)                                                            |  12/07/24  Monday |
 
 
