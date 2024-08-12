@@ -28,7 +28,7 @@ Please fill out the form below to submit your homework:
 | [React State Management Lab](https://github.com/SEB-10-Bahrain/React-State-Management-Lab)                                                            |  11/07/24  Sunday |
 | [Lifting State in React Lab](https://github.com/SEB-10-Bahrain/Lifting-State-in-React-Lab)                                                            |  11/07/24  Sunday |
 | [Fetching Data in React Lab](https://github.com/SEB-10-Bahrain/Fetching-Data-in-React-Lab)                                                            |  12/07/24  Monday |
-| [React Router DOM Lab](https://github.com/SEB-10-Bahrain/React-Router-DOM-Lab)                                                            |  12/07/24  Monday |
+| [React Router DOM Lab](https://github.com/SEB-10-Bahrain/React-Router-DOM-Lab)                                                            |  14/07/24  Wednesday |
 
 
 
