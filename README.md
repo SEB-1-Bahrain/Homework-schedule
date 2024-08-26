@@ -6,8 +6,12 @@ Please fill out the form below to submit your homework:
 
 [Homework Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSduTn9ghFyJcVZ3htkTRdSGW-ssn6ExIvhL1_oa9RD5IaqTNQ/viewform)
 
+| Unit 4 Homework                                                                                                                                              | Due Morning:         | 
+| ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
+| [Python Control Flow Lab](https://github.com/SEB-10-Bahrain/Python-Control-Flow-Lab)                                                              |  28/08/24, Wednesday | 
+| [Python Functions Lab](https://github.com/SEB-10-Bahrain/Python-Functions-Lab)                                                              |  28/08/24, Wednesday | 
  
-| Homework                                                                                                                                              | Due Morning:         | 
+| Previous Homework                                                                                                                                              | Due Morning: | 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
 | [JavaScript Functions](https://github.com/SEB-10-Bahrain/intro-javascript-functions-LAB)                                                              |  26/06/24, Wednesday | 
 | [JavaScript Arrays](https://github.com/SEB-10-Bahrain/intro-to-javascript-arrays-LAB)                                                                 |  27/06/24  Thursday  | 
