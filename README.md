@@ -9,7 +9,12 @@ Please fill out the form below to submit your homework:
 | Unit 4 Homework                                                                                                                                              | Due Morning:         | 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
 | [Python Control Flow Lab](https://github.com/SEB-10-Bahrain/Python-Control-Flow-Lab)                                                              |  28/08/24, Wednesday | 
-| [Python Functions Lab](https://github.com/SEB-10-Bahrain/Python-Functions-Lab)                                                                    |  29/08/24, Thursday | 
+| [Python Functions Lab](https://github.com/SEB-10-Bahrain/Python-Functions-Lab)                                                                    |  29/08/24, Thursday |
+| [Data Structures Lab](https://github.com/SEB-10-Bahrain/Python-Data-Structures-Lab)                                                               |  01/09/24, Sunday | 
+| [Python Classes Lab](https://github.com/SEB-10-Bahrain/Python-Classes-Lab)                                                                        |  02/09/24, Monday | 
+| [Intro to SQL Lab](https://github.com/SEB-10-Bahrain/Intro-to-SQL-Lab)                                                                            |  02/09/24, Monday | 
+
+
  
 | Previous Homework                                                                                                                                              | Due Morning: | 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
