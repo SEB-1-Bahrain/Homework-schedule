@@ -10,4 +10,4 @@ Please fill out the form below to submit your homework:
  
 | Unit 1 Homework                                                                                                                                              | Due Morning: | 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
-| [JavaScript Functions Lab](https://github.com/SEB-1-Bahrain/DAY-2-intro-javascript-functions-LAB)    |  25/09/24, Wednesday | 
+| [JavaScript Functions Lab](https://github.com/SEB-1-Bahrain/DAY-2-intro-javascript-functions-LAB)    |  Not Assigned Yet | 
