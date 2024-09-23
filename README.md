@@ -4,42 +4,10 @@
 ## Submission
 Please fill out the form below to submit your homework:
 
-[Homework Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSduTn9ghFyJcVZ3htkTRdSGW-ssn6ExIvhL1_oa9RD5IaqTNQ/viewform)
+[Homework Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSePaBJknteuxwMRqSUNaENKGFOy2PGlpv3yhvfOGlt56XHmZQ/viewform)
 
-| Unit 4 Homework                                                                                                                                              | Due Morning:         | 
-| ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
-| [Python Control Flow Lab](https://github.com/SEB-10-Bahrain/Python-Control-Flow-Lab)                                                              |  28/08/24, Wednesday | 
-| [Python Functions Lab](https://github.com/SEB-10-Bahrain/Python-Functions-Lab)                                                                    |  01/09/24, Sunday |
-| [Data Structures Lab](https://github.com/SEB-10-Bahrain/Python-Data-Structures-Lab)                                                               |  01/09/24, Sunday | 
-| [Python Classes Lab](https://github.com/SEB-10-Bahrain/Python-Classes-Lab)                                                                        |  02/09/24, Monday | 
-| [Intro to SQL Lab](https://github.com/SEB-10-Bahrain/Intro-to-SQL-Lab)                                                                            |  02/09/24, Monday | 
-
-
+**All Homeworks are due at 9:00AM the morning of the due date**
  
-| Previous Homework                                                                                                                                              | Due Morning: | 
+| Unit 1 Homework                                                                                                                                              | Due Morning: | 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------------:| 
-| [JavaScript Functions](https://github.com/SEB-10-Bahrain/intro-javascript-functions-LAB)                                                              |  26/06/24, Wednesday | 
-| [JavaScript Arrays](https://github.com/SEB-10-Bahrain/intro-to-javascript-arrays-LAB)                                                                 |  27/06/24  Thursday  | 
-| [JavaScript Objects](https://github.com/SEB-10-Bahrain/intro-js-objects-LAB)                                                                          |  30/06/24  Sunday    | 
-| [DOM Events](https://github.com/SEB-10-Bahrain/dom-events-LAB)                                                                                        |  01/07/24  Monday    | 
-| [Tic-Tac-Toe](https://github.com/SEB-10-Bahrain/JS-Game-Tic-Tac-Toe-LAB)                                                                              |  03/07/24, Wednesday |
-| [Flexbox](https://github.com/SEB-10-Bahrain/flexbox-LAB)                                                                                              |  04/07/24  Thursday  |
-| [Intro to Markdown Lab](https://github.com/SEB-10-Bahrain/intro-markdown-lab)                                                                         |  07/07/24  Sunday    |
-| [JS Array Iterators Lab](https://github.com/SEB-10-Bahrain/array-iterator-LAB)                                                                        |  07/07/24  Sunday    |
-| [Intro to Express Lab](https://github.com/SEB-10-Bahrain/intro-to-express-lab)                                                                        |  17/07/24, Wednesday |
-| [EJS Lab](https://github.com/SEB-10-Bahrain/EJS-LAB)                                                                                                  |  21/07/24  Sunday    |
-| [Intro to Mongoose Lab](https://github.com/SEB-10-Bahrain/intro-mongoose-lab?tab=readme-ov-file)                                                      |  23/07/24  Tuesday   |
-| [MEN Stack App Lab](https://github.com/SEB-10-Bahrain/MEN-Stack-LAB)                                                                                  |  25/07/24  Thursday  |
-| [MEN Stack Embedding Related Data Lab - Cookbook](https://github.com/SEB-10-Bahrain/MEN-Stack-Embedding-Related-Data-Lab-Cookbook)                    |  29/07/24, Monday    |
-| [Project 2](https://github.com/SEB-10-Bahrain/MEN-Project-2)                                                                                          |  25/07/24  Thursday  |
-| [Modern JS Syntax Lab](https://github.com/SEB-10-Bahrain/Modern-JS-Syntax-Lab)                                                                        |  08/07/24  Wednesday |
-| [React-Components-Lab](https://github.com/SEB-10-Bahrain/React-Components-Lab)                                                                        |  08/08/24  Thursday  |
-| [React State Management Lab](https://github.com/SEB-10-Bahrain/React-State-Management-Lab)                                                            |  11/08/24  Sunday |
-| [Lifting State in React Lab](https://github.com/SEB-10-Bahrain/Lifting-State-in-React-Lab)                                                            |  11/08/24  Sunday |
-| [Fetching Data in React Lab](https://github.com/SEB-10-Bahrain/Fetching-Data-in-React-Lab)                                                            |  12/08/24  Monday |
-| [React Router DOM Lab](https://github.com/SEB-10-Bahrain/React-Router-DOM-Lab)                                                            |  14/08/24  Wednesday |
-| [React Jukebox Front End Lab](https://github.com/SEB-10-Bahrain/React-Jukebox-Front-End-Lab)                                                            |  15/08/24  Thursday |
-
-
-
-
+| [JavaScript Functions Lab](https://github.com/SEB-1-Bahrain/DAY-2-intro-javascript-functions-LAB)    |  25/09/24, Wednesday | 
