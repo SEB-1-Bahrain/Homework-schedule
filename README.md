@@ -18,3 +18,4 @@ Please fill out the form below to submit your homework:
 | [Flexbox Lab](https://github.com/SEB-1-Bahrain/w2-d4-flexbox-LAB)    | Optional |
 | [Array Iterator Lab](https://github.com/SEB-1-Bahrain/W2-D5-array-iterator-LAB)    | Optional |
 | [Markdown Lab](https://github.com/SEB-1-Bahrain/W2-D5-LAB-intro-markdown-lab)    | Optional |
+| [Intro to Express Lab](https://github.com/SEB-1-Bahrain/intro-to-express-lab)    | Wed 16/10/24 |
