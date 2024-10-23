@@ -12,6 +12,7 @@ Please fill out the form below to submit your homework:
 | [Intro to Express Lab](https://github.com/SEB-1-Bahrain/intro-to-express-lab)    | Wed 16/10/24 |
 | [EJS Lab](https://github.com/SEB-1-Bahrain/w4-d2-EJS-LAB)    | Sun 20/10/24 |
 | [MEN Stack Lab](https://github.com/SEB-1-Bahrain/w4-d4-MEN-Stack-LAB)    | Tue 22/10/24 |
+| [MEN Stack Cookbook](https://github.com/SEB-1-Bahrain/MEN-Stack-Embedding-Related-Data-Lab-Cookbook)    | Sun 27/10/24 |
 
 | Unit 1 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:| 
