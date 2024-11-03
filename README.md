@@ -7,6 +7,10 @@ Please fill out the form below to submit your homework:
 [Homework Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSePaBJknteuxwMRqSUNaENKGFOy2PGlpv3yhvfOGlt56XHmZQ/viewform)
 
 **All Homeworks are due at 9:00AM the morning of the due date**
+| Unit 3 Homework  | Due Morning: | 
+| ------------------------------------------------------------| :-------------------:|
+| [Modern Javascript Syntax Lab](https://github.com/SEB-1-Bahrain/Modern-JS-Syntax-Lab)    | Tue 5/11/24 |
+
 | Unit 2 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
 | [Intro to Express Lab](https://github.com/SEB-1-Bahrain/intro-to-express-lab)    | Wed 16/10/24 |
