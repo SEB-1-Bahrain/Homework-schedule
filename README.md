@@ -10,6 +10,7 @@ Please fill out the form below to submit your homework:
 | Unit 3 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
 | [Modern Javascript Syntax Lab](https://github.com/SEB-1-Bahrain/Modern-JS-Syntax-Lab)    | Tue 5/11/24 |
+| [React Components Lab](https://github.com/SEB-1-Bahrain/React-Components-Lab)    | Wed 6/11/24 |
 
 | Unit 2 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
