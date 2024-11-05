@@ -12,6 +12,7 @@ Please fill out the form below to submit your homework:
 | [Modern Javascript Syntax Lab](https://github.com/SEB-1-Bahrain/Modern-JS-Syntax-Lab)    | Tue 5/11/24 |
 | [React Components Lab](https://github.com/SEB-1-Bahrain/React-Components-Lab)    | Wed 6/11/24 |
 | [React State Management Lab](https://github.com/SEB-1-Bahrain/React-State-Management-Lab)    | Wed 6/11/24 |
+| [Controlled Forms in React Lab](https://github.com/SEB-1-Bahrain/Controlled-Forms-in-React-Lab)    | Sun 10/11/24 |
 
 | Unit 2 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
