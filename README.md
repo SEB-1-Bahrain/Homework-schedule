@@ -16,6 +16,7 @@ Please fill out the form below to submit your homework:
 | [Lifting State in React Lab](https://github.com/SEB-1-Bahrain/Lifting-State-in-React-Lab)    | Mon 11/11/24 |
 | [Fetching Data in React Lab](https://github.com/SEB-1-Bahrain/Fetching-Data-in-React-Lab)    | Mon 11/11/24 |
 | [React Router DOM Lab](https://github.com/SEB-1-Bahrain/React-Router-DOM-Lab)    | Tue 12/11/24 |
+| [Express API: Jukebox Back-End Lab](https://github.com/SEB-1-Bahrain/Express-API-Jukebox-Back-End-Lab)    | Wed 13/11/24 |
 
 | Unit 2 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
