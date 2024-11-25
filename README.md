@@ -9,7 +9,7 @@ Please fill out the form below to submit your homework:
 **All Homeworks are due at 9:00AM the morning of the due date**
 | Unit 4 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
-| [Python Control Flow Lab](https://github.com/SEB-1-Bahrain/Python-Control-Flow-Lab)    | wed 27/11/24 |
+| [Python Control Flow Lab](https://github.com/SEB-1-Bahrain/Python-Control-Flow-Lab)    | Wed 27/11/24 |
 
 | Unit 3 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
