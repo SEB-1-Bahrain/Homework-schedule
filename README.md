@@ -11,6 +11,7 @@ Please fill out the form below to submit your homework:
 | ------------------------------------------------------------| :-------------------:|
 | [Python Control Flow Lab](https://github.com/SEB-1-Bahrain/Python-Control-Flow-Lab)    | Wed 27/11/24 |
 | [Python Functions Lab](https://github.com/SEB-1-Bahrain/Python-Functions-Lab)    | Thu 28/11/24 |
+| [Python Data Structures Lab](https://github.com/SEB-1-Bahrain/Python-Data-Structures-Lab)    | Thu 28/11/24 |
 
 | Unit 3 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
