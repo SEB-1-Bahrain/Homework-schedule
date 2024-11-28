@@ -14,6 +14,7 @@ Please fill out the form below to submit your homework:
 | [Python Data Structures Lab](https://github.com/SEB-1-Bahrain/Python-Data-Structures-Lab)    | Thu 28/11/24 |
 | [Python Classes Lab](https://github.com/SEB-1-Bahrain/Python-Classes-Lab)    | Sun 1/12/24 |
 | [Intro to SQL Lab](https://github.com/SEB-1-Bahrain/Intro-to-SQL-Lab)    | Mon 2/12/24 |
+| [Django CRUD App Lab](https://github.com/SEB-1-Bahrain/Django-CRUD-App-Lab)    | Thu 5/12/24 |
 
 | Unit 3 Homework  | Due Morning: | 
 | ------------------------------------------------------------| :-------------------:|
